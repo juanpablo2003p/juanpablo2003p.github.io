@@ -1,0 +1,48 @@
+﻿body{
+background-color: #FFCCCC;
+margin: 100px 50px 10px 60px;
+}
+
+p{
+font-style: arial;
+font-size: 18px;
+font-weight: lighter;
+}
+
+h3{
+font-family: arial, verdana, sans-serif;
+font-size: 23px;
+background-color: 	#FFFFFF;
+padding: 20px 20px 20px 20px;
+}
+
+h2{
+font-family: arial, verdana, sans-serif;
+font-size: 23px;
+background-color: 	#FFFFFF;
+padding: 20px 20px 20px 20px;
+}
+
+h1{
+background-color: #FFFFFF;
+padding: 25px 25px 25px 25px;
+}
+
+p{
+position:relative;
+background-color: #FFFFFF;
+width:8%
+heigh:55%
+color:#FFF
+float:left;
+}
+
+footer{
+position:absolute;
+background-color:#FFFCCC
+;
+width:91%;
+height:29%;
+color:#FFFFFF;
+clear:left;
+}
